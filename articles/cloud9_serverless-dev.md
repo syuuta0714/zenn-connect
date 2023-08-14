@@ -1,6 +1,9 @@
 ---
 title: "Cloud9でServerlessフレームワークを使ってみた"
 date: 2023-08-14
+type: "tech"
+topics: []
+published: true
 ---
 
 
