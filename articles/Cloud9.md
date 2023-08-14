@@ -17,3 +17,4 @@
 /home/ec2-user/envrironment　以下にユーザディレクトリが作成される  
 ![Alt text](images/Cloud9_%E5%88%9D%E6%9C%9F%E6%A7%8B%E6%88%90.png)
 
+### git test
